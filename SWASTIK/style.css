@@ -589,7 +589,7 @@ p {
     flex-direction: column;
     max-width: 1200px;
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
 }
 
 #contact .contact-items {
